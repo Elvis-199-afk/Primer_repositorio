@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
 	cout<<"Purbeafs prueba ";
+	cout<<"APRsdgkfg";
 	SerieTV series[30]={
         {"Stranger Things", "Ciencia Ficcion", 2016, 4, "Netflix"},
         {"The Mandalorian", "Aventura", 2019, 2, "Disney+"},
