@@ -3,7 +3,9 @@
 #include<string.h>
 #include"SerieTV.h"
 using namespace std;
+
 int main() {
+	cout<<"Purbeafs prueba ";
 	SerieTV series[30]={
         {"Stranger Things", "Ciencia Ficcion", 2016, 4, "Netflix"},
         {"The Mandalorian", "Aventura", 2019, 2, "Disney+"},
